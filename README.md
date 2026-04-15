@@ -4,7 +4,7 @@ Houston Power Grid Monitoring, Fault Simulation & ML Forecasting Platform
 
 Built with **Streamlit in Snowflake** by **PanthersWhoCode**
 
-I was the front-end developer for this project.
+I was the front-end developer for this project, screenshots of the project are towards the bottom.
 ---
 
 ## Overview
@@ -69,6 +69,17 @@ NSES is a full-stack energy analytics application that monitors Houston's power 
 | `HOUSTON_ANOMALY_SIMULATION_RESULTS` | Table | Historical disruption events |
 | `APP_USERS` | Table | Login credentials (username, hash, role) |
 | `HOUSTON_RF_MWH` | ML Model | Random Forest regression model |
+
+
+## Screenshots
+
+<img width="1201" height="761" alt="image" src="https://github.com/user-attachments/assets/b140e913-e51c-4f2f-bd1e-82080dd29f4f" />
+
+<img width="1613" height="759" alt="image" src="https://github.com/user-attachments/assets/21a3fd86-9390-4064-b2c5-e15de8c66263" />
+
+<img width="1442" height="827" alt="image" src="https://github.com/user-attachments/assets/52f4ee95-d0eb-4749-95eb-f7b7033b2278" />
+
+<img width="1614" height="829" alt="image" src="https://github.com/user-attachments/assets/6a663000-f53b-4e05-a1ab-e9162987b165" />
 
 ---
 
