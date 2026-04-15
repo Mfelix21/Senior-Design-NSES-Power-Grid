@@ -1,0 +1,12 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - folium=
+  - matplotlib=3.10.8
+  - pandas=
+  - pydeck=0.9.1
+  - python=3.11.*
+  - snowflake-snowpark-python=
+  - streamlit=
+  - streamlit-folium=
